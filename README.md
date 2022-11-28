@@ -14,7 +14,7 @@ Web developer software developer
 I've been learning coding for 3 years. I started with C language. then java , C++ , Git, Java Script then I started MERNSTACK Journey . I studied Node js , React js , Mongo db, HandleBars etc..
 
 * 🌍  I'm based in Kerala
-* 🖥️  See my portfolio at [mohammedyaseen.online](http://mohammedyaseen.live)
+* 🖥️  See my portfolio at [mohammedyaseen.live](http://mohammedyaseen.live)
 * ✉️  You can contact me at [mohdyaseen.official@gmail.com](mailto:mohdyaseen.official@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Web Projects

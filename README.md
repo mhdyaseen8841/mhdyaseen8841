@@ -1,15 +1,11 @@
 Mohammed Yaseen Here👋 
 ================================
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 Web developer software developer
 --------------------------------
 
-I've been learning coding for 3 years. I started with C language. then java , C++ , Git, Java Script then I started MERNSTACK Journey . I studied Node js , React js , Mongo db, HandleBars etc..
+I'm a MERN (MongoDB, Express, React, Node) stack developer who loves building full-stack applications with modern technologies. With my skills and experience, I can help turn your ideas into a beautiful and functional web application.
+I've been learning coding for 4 years. I started with C language. then java , C++ , Git, Java Script then I started MERNSTACK Journey . I studied Node js , React js , Mongo db, HandleBars etc..
 
 * 🌍  I'm based in Kerala
 * 🖥️  See my portfolio at [mohammedyaseen.live](http://mohammedyaseen.live)
@@ -54,7 +50,6 @@ I've been learning coding for 3 years. I started with C language. then java , C+
 
 <a href="http://www.github.com/mhdyaseen8841"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdyaseen8841&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/mhdyaseen8841"><img src="https://activity-graph.herokuapp.com/graph?username=mhdyaseen8841&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/mhdyaseen8841" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdyaseen8841&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

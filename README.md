@@ -1,8 +1,6 @@
 Mohammed Yaseen Here👋 
 ================================
-<div align="center">
- <img src="https://github.com/mhdyaseen8841/mhdyaseen8841/blob/output/github-contribution-grid-snake.svg" />
-</div>
+
 software developer
 --------------------------------
 

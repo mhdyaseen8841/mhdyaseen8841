@@ -1,7 +1,7 @@
 Mohammed Yaseen Here👋 
 ================================
 
-Web developer software developer
+software developer
 --------------------------------
 
 I'm a MERN (MongoDB, Express, React, Node) stack developer who loves building full-stack applications with modern technologies. With my skills and experience, I can help turn your ideas into a beautiful and functional web application.
